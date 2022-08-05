@@ -1,6 +1,8 @@
 # Rogelio Torres 
 
-*Data Analytics | Program Development | Sports Science | Engineering | Process Optimization*
+*Data Analytics | Program Development | Sports Science | Engineering | Web Development*
+
+Feel free to check out my [software portfolio](https://rogelio-torres-portfolio.netlify.app/)!
 
 ## Who am I?
 - 👋 Hi, I’m @rogergelio !
