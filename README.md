@@ -2,7 +2,7 @@
 
 *Data Analytics | Program Development | Sports Science | Engineering | Web Development*
 
-Feel free to check out my [software portfolio](https://rogelio-torres-portfolio.netlify.app/)!
+Feel free to check out my [software portfolio](https://rogelio-torres-portfolio.vercel.app/)!
 
 ## Who am I?
 - 👋 Hi, I’m @rogergelio !
